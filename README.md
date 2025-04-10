@@ -41,12 +41,6 @@
       max-width: 300px;
       border-radius: 10px;
     }
-    .terminator p {
-      font-size: 18px;
-      font-weight: bold;
-      color: #333;
-      margin-top: 10px;
-    }
   </style>
 </head>
 <body>
@@ -57,8 +51,7 @@
     <p>🔗 <a href="https://www.linkedin.com/in/kimerling" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
     <div class="terminator">
-      <img src="https://media.giphy.com/media/fWfWjJ7Pf3TnK/giphy.gif" alt="Terminator GIF">
-      <p>Asta la vista, baby.</p>
+      <img src="https://tse4.mm.bing.net/th?id=OIP.vmbkLYNUjwnE34HrHrJ7ygHaEK&pid=Api" alt="Hasta la vista, baby">
     </div>
   </div>
 </body>
